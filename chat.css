@@ -1,0 +1,5 @@
+@media (width <= 600px) {
+    .card{
+        margin: 40px 2%;
+    }
+  }
